@@ -1,7 +1,9 @@
-# Movie-Recommendation-System-Using-Python
+# Movie-Recommendation-System-Using-Python 
+saptarshi kundu 
+229310147
  In this python project where using Pandas library we will find correlation and created basic Movie Recommender System with Python.
  
-It is an extension from the project: https://github.com/krishnaik06/Movie-Recommender-in-python
+It is an extension from the project: https://github.com/saptarshi126/Movie-Recommender-in-python
 
 The Dataset used is a subset of MovieLens Dataset.
 
